@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3gxMWFycWowOHhmNXFoMGd2dGNqYTN2aHIwanlwdzhuZDF3cXNhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="100%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3gxMWFycWowOHhmNXFoMGd2dGNqYTN2aHIwanlwdzhuZDF3cXNhMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="100%">
 </p>
 
 <h1 align="center">👑 REIH 👑</h1>
