@@ -34,9 +34,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alihan1mudayetoglu-web&show_icons=true&theme=synthwave"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=REIH-web&show_icons=true&theme=synthwave"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=alihan1mudayetoglu-web&theme=synthwave"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=REIH-web&theme=synthwave"/>
 
 </p>
 
@@ -46,7 +46,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alihan1mudayetoglu-web&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=REIH-web&theme=react-dark"/>
 
 </p>
 
@@ -56,7 +56,7 @@
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=alihan1mudayetoglu-web&label=Profile+Views&color=ff00ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=REIH-web&label=Profile+Views&color=ff00ff&style=for-the-badge"/>
 
 </p>
 
